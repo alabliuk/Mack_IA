@@ -1,0 +1,28 @@
+﻿Nº;Título;Tipo;Categoria;Complexidade;Ciclo;Lead Time
+088;Upload Apelidos de Equipamentos;Estória;Data Fixa;Pequena;Iteração 01;19:43:17
+110;Publicar Test Coverage no SonarQube;Estória;Evolução Técnica;Pequena;Iteração 01;28:07:43
+060;SonarQube no UX;Estória;Evolução Técnica;Pequena;Iteração 01;35:00:00
+039;Criação da esteira de Build no AzureDevops para o SimpressUX.Core;Estória;Evolução Técnica;Pequena;Iteração 01;92:29:04
+038;Migração do Código SimpressUX.Core para o Azure Devops com Git;Estória;Evolução Técnica;Pequena;Iteração 01;92:46:19
+033;Criação do projeto de testes de unidade para o UX;Estória;Evolução Técnica;Pequena;Iteração 01;93:30:50
+004;Release 2 - Migração .NetCore;Estória;Evolução Técnica;Média;Iteração 01;38:27:52
+003;Release 2 - Novos itens de Contratos agregados aos acessos;Estória;Data Fixa;Média;Iteração 01;52:06:56
+014;Migração de Testes Automatizados para Selenium;Estória;Evolução Técnica;Média;Iteração 01;77:09:12
+146;Merge com TFS - Tarefa de notificação;Estória;Evolução Técnica;Pequena;Iteração 02;8:00:00
+120;Configuração AppDynamics;Estória;Evolução Técnica;Pequena;Iteração 02;44:42:19
+095;Merge do repositório TFS e Git;Estória;Evolução Técnica;Pequena;Iteração 02;79:57:34
+144;Esteira de deploy;Estória;Evolução Técnica;Média;Iteração 02;83:51:10
+267;Redirecionamento de menus simpressux > ambiente web;Estória;Data Fixa;Indefinida;Iteração 03;31:55:50
+031;Livechat - Implantação no pré-faturamento;Estória;Data Fixa;Indefinida;Iteração 03;140:24:28
+032;Projeto de api para o simpressux.core;Estória;Evolução Técnica;Indefinida;Iteração 03;233:35:50
+072;PROJEÇÃO de ABASTECIMENTO de consumíveis;Estória;Data Fixa;Indefinida;Iteração 04;307:37:45
+092;RELATÓRIO de PROJEÇÃO de ABASTECIMENTO de consumíveis;Estória;Data Fixa;Indefinida;Iteração 04;131:05:20
+093;ALERTAS de PROJEÇÃO de ABASTECIMENTO de consumíveis;Estória;Data Fixa;Indefinida;Iteração 04;165:22:05
+192;Safe Lifting - Tela de Login;Estória;Data Fixa;Indefinida;Iteração 04;169:27:51
+266;CARD DASHBOARD INICIAL de CONSCIÊNCIA AMBIENTAL ;Estória;Data Fixa;Indefinida;Iteração 04;64:00:00
+286;Melhoria no modo de download do arquivo de relatório da Reversa;Estória;Evolução Técnica;Média;Iteração 04;89:29:12
+341;API retornar arquivo de detalhes de projeções de consumíveis;Estória;Evolução Técnica;Indefinida;Iteração 04;64:28:04
+349;Inclusão de colunas no relatório de retirada de equipamentos;Estória;Data Fixa;Pequena;Iteração 04;34:37:58
+415;ALTERAÇÃO de TEXTOS na PROJEÇÃO DE CONSUMÍVEIS;Estória;Data Fixa;Pequena;Iteração 04;16:56:26
+497;Exibir APELIDO na exportação dos dados de MONITORAMENTO SOS;Estória;Data Fixa;Pequena;Iteração 04;9:42:20
+503;Alteração de texto na Home;Estória;Data Fixa;Pequena;Iteração 04;10:42:52
